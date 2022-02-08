@@ -1,6 +1,6 @@
 
 ## Summary
-sequence_coverage_analysis.py is a script that will give the each samples 
+sequence_coverage_analysis.py is a script that will give each samples 
 fractional coverage of a reference sequece. This fraction is calculated by depth,
 with a user input minimum depth. The data is put into a single csv file, and a bar 
 graph shows the fractional coverage graphically for eaach sample. In the last part 
