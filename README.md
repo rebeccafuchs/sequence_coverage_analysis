@@ -5,7 +5,7 @@ fractional coverage of a reference sequece. This fraction is calculated by depth
 with a user input minimum depth. The data is put into a single csv file, and a bar 
 graph shows the fractional coverage graphically for eaach sample. In the last part 
 of the script I download a refrence genome from ncbi, and re-align the samples. Instead
-of graphing each samples fractional coverage, I created a line plot. The plot shots the 
+of graphing each samples fractional coverage, I created a line plot. The plot shows the 
 coverage for each sample in all position of the reference.
 
 
